@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hehe6272/Ros.github-io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hehe6272/Ros.github-io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE   html>
+<body bgcolor="#8CFFFF">
+<html>
+<head> 
+</head>
+</body>
+     <h2>介紹我本人照片下面</h2> 
+     <img src="IMG_0172_副本.jpg" width="200"></img>
+     <h3>小琉球船</h3>
+     <hr></hr>
+     <h2>資訊</h2>
+     <hr></hr>
+     <img src="IMG_0037.PNG" width="500"></img>
+     <h3>介紹網站</h3>
+     <ul>
+         <li><a href="https://www.google.com.tw/?hl=zh_TW">Google</a></li>
+         <li>諸葛蘭格帥喔</li>
+     </ul>
+        <font size="7"><b>個人資訊</b></font>
+    <table border="1" width="300">
+        <tr>
+            <td><b>傳說戰績</b></td>
+            <td>62</td>
+            <td>72</td>
+        </tr>
+        <tr>
+          <td>喜歡</td>
+          <td>剪片</td>
+          <td>做...有影片</td>
+        </tr>
+        <tr>
+          <td>75</td>
+          <td>62</td>
+          <td>78</td>
+          <font color="#FF0000">我是紅色</font>
+</body>
+</html>
