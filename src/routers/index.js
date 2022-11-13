@@ -7,7 +7,32 @@ const routes = [
     path: '/',
     name: '小慶個人網站',
     component: HomePage
+  },
+  {
+    path: '/about',
+    name: '關於我',
+    component: () => import('@/views/AboutPage.vue')
+  },
+  {
+    path: '/yt',
+    name: '我的 YouTube',
+    component: () => import('@/views/YoutubePage.vue')
+  },
+  {
+    path: '/app',
+    name: '分享程式',
+    component: () => import('@/views/ShareApp.vue')
+  },
+  {
+    path: '/countdown',
+    name: '倒數',
+    component: () => import('@/views/CountDown.vue')
   }
+  // {
+  //   path: '/',
+  //   name: '',
+  //   component: () => import('')
+  // }
 ]
 
 // 執行路由表
